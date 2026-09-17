@@ -1,0 +1,5 @@
+# Дирректории сборок
+build/
+
+#Настройки VisualStudio Code
+.vscode/
